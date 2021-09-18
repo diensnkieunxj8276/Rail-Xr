@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=33351c20-222e-4abd-bb10-50f40764a9ea
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+AUUID=f6d108ee-7746-4b4d-8f13-e4d9206ff9e8
+CADDYIndexPage=https://www.youtube.com/
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
